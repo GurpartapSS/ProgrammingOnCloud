@@ -1,0 +1,4 @@
+﻿  Server.cpp
+C:\Users\Admin\source\repos\SingleThreadServer\SingleThreadServer\Server.cpp(9,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Admin\source\repos\SingleThreadServer\SingleThreadServer\Server.cpp(81,24): warning C4018: '<': signed/unsigned mismatch
+  SingleThreadServer.vcxproj -> C:\Users\Admin\source\repos\SingleThreadServer\Debug\SingleThreadServer.exe
