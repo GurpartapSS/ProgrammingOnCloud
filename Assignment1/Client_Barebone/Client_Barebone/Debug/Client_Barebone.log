@@ -1,0 +1,2 @@
+﻿  Source.cpp
+C:\Users\Admin\source\repos\Client_Barebone\Client_Barebone\Source.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
