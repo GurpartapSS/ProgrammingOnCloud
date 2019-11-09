@@ -1,0 +1,23 @@
+syntax = "proto2";
+
+package CServer;
+
+message Request {
+required int32 RFWID = 1;
+required string BenchType = 2;
+required string Column = 3;
+required int32 dinbatch = 4;
+required int32 BatchesStart = 5;
+required int32 BatchNum = 6;
+}
+
+message Data {
+required int32 RFWID = 2;
+required int32 LastBatchN = 3;
+repeated float data = 1;
+}
+
+message ReqLog {
+repeated Data dat = 1;
+}
+
