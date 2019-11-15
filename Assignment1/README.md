@@ -10,4 +10,4 @@ Steps to run the Flask Server on AWS
 
 5. change the url on client module and get the required information.
 
-link to the video for AWS deployment: https://drive.google.com/open?id=1VpnPEjB5Qd0OWwIshNwZT6nI1evr9fa1
+link to the video for AWS deployment: https://drive.google.com/open?id=1TbV0gXN93R2KB1T-vm6NpuYuh_BdLWPa
